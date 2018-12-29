@@ -1,0 +1,10 @@
+9
+SC  59021	John	221	2.2
+GC	5ad78e9f	Bob	690	3.5	0.01	
+DC	3478562109	Alice	2680	18.9	0.1	1.05
+DC	zs790xfe821cdef03248	Angela	680	6.2	0.5	1.3
+GC	87902816354	Bill	1689	8.2	1.7	
+GC	zftyefcba	Ben	48	30.5	0.2	
+SC	a9808dd658127dd	Jasmine	1000	8.0		
+DC	zftyefcba890	Ray	1834	0.2	0.8	1.08
+SC	ajid2738461hd	Rose	1900	11.4		
